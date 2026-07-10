@@ -49,7 +49,10 @@ Author:
 Arunank Prakash
 
 Cybersecurity Intern @ Srishti Innovative
+
 SOC Analyst Aspirant
+
 LinkedIn: https://www.linkedin.com/in/arunank-prakash-6871033b0
+
 Github: https://github.com/Arunankk
 
